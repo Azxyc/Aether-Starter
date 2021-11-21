@@ -1,0 +1,22 @@
+{	
+    "colours": {
+        "oxfordblue": "#0B132B",
+        "spacecadet": "#1C2541",
+        "independence": "#3A506B",
+        "maxbluegreen": "#5BC0BE",
+        "turqblue": "#6FFFE9"
+
+    },
+    
+  "key": {
+    "token": "ENTER_BOT_TOKEN",
+    "ownerId": "ENTER_YOUR_USER_ID",
+    "clientId": "ENTER_BOT_CLIENT_ID",
+    "guildId": "ENTER_TEST_GUILD_ID"
+  },
+  "stats": {
+    "version": "000001",
+    "versionName": "1.0.0",
+    "botName": "ENTER_BOT_NAME"
+  }
+}

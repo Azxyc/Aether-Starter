@@ -1,0 +1,56 @@
+{
+
+  "name": "nixerlia",
+
+  "version": "4.0.0",
+
+  "description": "Version Aether",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "test": "node test && node .",
+
+    "deploy": "node deploy && node ."
+
+  },
+
+  "repository": {
+
+    "type": "git",
+
+    "url": "git+https://github.com/Azxyc/Aether-Starter-Pack.git"
+
+  },
+
+  "author": "Azxyc",
+
+  "license": "ISC",
+
+  "homepage": "https://github.com/Azxyc/Nixerlia#readme",
+
+  "dependencies": {
+
+    "@discordjs/builders": "^0.7.0",
+
+    "@discordjs/rest": "^0.1.0-canary.0",
+
+    "common-tags": "^1.8.0",
+
+    "cross-fetch": "^3.1.4",
+
+    "discord-api-types": "^0.24.0",
+
+    "discord-fetch-messages": "^2.4.0",
+
+    "discord.js": "^13.2.0",
+
+    "ms": "^2.1.3",
+
+    "node-fetch": "^3.0.0"
+
+  }
+
+}
+
